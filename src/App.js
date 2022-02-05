@@ -6,10 +6,11 @@ import Skills from './component/Skills'
 function App() {
   return (
   <main>  
-  {/* <Navbar/> */}
+  {/* <Navbar/>
   <About/>
   <Projects/>
-  <Skills/>
+  <Skills/> */}
+  Ashish Sharma
   </main>
   );
 }

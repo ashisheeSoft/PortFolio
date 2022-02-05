@@ -7,11 +7,11 @@ import Contact from './component/Contacts';
 function App() {
   return (
   <main>  
-  {/* <Navbar/>
+  <Navbar/>
   <About/>
   <Projects/>
-  <Skills/> */}
-  Ashish Sharma
+  <Skills/>
+  <Contact/>
   </main>
   );
 }

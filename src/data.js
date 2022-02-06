@@ -7,7 +7,7 @@ export const projects = [
     description:
       "The device let you control your devices from anywhere using the Internet of Things Technology.",
     image: smartSwitchPic,
-    link: "https://reactbootcamp.com",
+    link: "https://www.google.com",
   },
     {
       title: "ToDo App",
@@ -15,7 +15,7 @@ export const projects = [
       description:
         "This project is Based on the Django framework which let you track your tasks from anywhere",
       image: todoPic,
-      link: "https://reedbarger.com",
+      link: "https://www.google.com",
     },
   ];
 

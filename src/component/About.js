@@ -12,9 +12,7 @@ export default function About() {
             Things.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Hi, I am Ashish. I Am an Iot Architect who loves to build Things which can talk to the Internet.
           </p>
           <div className="flex justify-center">
             <a

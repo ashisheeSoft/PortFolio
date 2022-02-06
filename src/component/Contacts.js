@@ -21,7 +21,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">
+              <p className="mt-1 text-indigo-400">
                 RajarBagan,Baidyabati <br />
                 Hooghly, West Bengal 712222
               </p>
@@ -36,7 +36,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">+91-7651901854</p>
+              <p className="leading-relaxed text-indigo-400">+91-7651901854</p>
             </div>
           </div>
         </div>
